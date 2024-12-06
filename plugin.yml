@@ -1,0 +1,13 @@
+name: PDGHGladiador
+main: me.mchiappinam.pdghgladiador.Main
+version: 1.0
+depends: [SimpleClans,Vault,Legendchat,PDGHEventos,PDGHNoob]
+website: https://hostload.com.br/ & http://pdgh.com.br/
+author: mchiappinam,SubZero0
+commands:
+   gladiador:
+      description: Info.
+      usage: /<command> ?
+   gladiadores:
+      description: Info.
+      usage: /<command>

@@ -1,0 +1,23 @@
+darItens: false
+AutoStart:
+  Ativado: true
+  Dia: sabado
+  Hora: 1700
+Premios:
+  Tag: '&6[Gladiador]&f'
+  Dinheiro: 50000
+Timers:
+  Preparar:
+    Avisos: 20
+    TempoEntre: 30
+  Iniciando:
+    Avisos: 10
+    TempoEntre: 30
+  Finalizando: 30
+Arena:
+  Entrada: 'world;0;0;0;0;0'
+  Saida: 'world;0;0;0;0;0'
+  Camarote: 'world;0;0;0;0;0'
+  Menor: 'world;0;0;0;0;0'
+Vencedores: []
+Bans: {}
